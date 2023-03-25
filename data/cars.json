@@ -1,0 +1,12 @@
+{
+    "lambo":{
+        "image": "./data/img/lambo/lambo.jpg",
+        "speed": "300",
+        "accel": "2.5"
+    },
+    "volks":{
+        "image": "./data/img/volks/volks.jpg",
+        "speed": "220",
+        "accel": "5.2"
+    }
+}
